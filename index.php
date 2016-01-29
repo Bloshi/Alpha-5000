@@ -22,7 +22,7 @@
 			
 		</cite>
 	</header>
-	<nav class="main _f_w">
+	<nav class="main _f_w">lol
 		
 	</nav>
 	<main class='_f_w _pad _clear'>
