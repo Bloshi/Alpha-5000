@@ -47,8 +47,19 @@ form { margin: 0 auto;
 
 
 
+/* TAF DE BLOSHI LE GROS NUL !!!! */
 
+.text_header {
+	position: absolute;
+	margin: 0 auto;
 
+}
+
+.text_header h1,p {
+
+	text-align: center;
+	color: blue;
+}
 
 
 
